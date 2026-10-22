@@ -16,7 +16,7 @@ attrs==25.3.0
     #   referencing
 camel-converter[pydantic]==4.0.1
     # via meilisearch
-certifi==2025.8.3
+certifi==2026.10.19
     # via
     #   elasticsearch
     #   requests
